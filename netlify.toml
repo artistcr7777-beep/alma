@@ -1,0 +1,4 @@
+[build]
+  # Run pnpm through Corepack so the build works even when pnpm isn't on PATH
+  command = "COREPACK_ENABLE_DOWNLOAD_PROMPT=0 corepack pnpm install --frozen-lockfile && COREPACK_ENABLE_DOWNLOAD_PROMPT=0 corepack pnpm run build"
+  publish = ".next"

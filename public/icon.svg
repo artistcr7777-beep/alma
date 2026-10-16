@@ -1,0 +1,21 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="42" fill="#1a0a1f"/>
+  <circle cx="90" cy="90" r="76" stroke="#9b59b6" stroke-width="3" stroke-dasharray="6 4" opacity="0.6"/>
+  <circle cx="90" cy="90" r="66" fill="#261336" stroke="#c084d8" stroke-width="2"/>
+  <!-- Crescent moon -->
+  <path d="M72 48 C 60 62 60 102 84 122 C 100 134 116 130 126 124 C 108 136 78 128 66 110 C 54 92 60 64 72 48 Z" fill="#d4a5e8"/>
+  <!-- Kuromi skull cute emblem -->
+  <g transform="translate(98, 82)">
+    <!-- Skull head -->
+    <path d="M0 -14 C-14 -14 -18 0 -18 10 C-18 18 -10 24 -6 24 L-6 28 L-2 28 L-2 24 L2 24 L2 28 L6 28 L6 24 C10 24 18 18 18 10 C18 0 14 -14 0 -14 Z" fill="#f5eef8"/>
+    <!-- Eyes -->
+    <ellipse cx="-7" cy="6" rx="3.5" ry="4.5" fill="#1a0a1f"/>
+    <ellipse cx="7" cy="6" rx="3.5" ry="4.5" fill="#1a0a1f"/>
+    <!-- Nose -->
+    <circle cx="0" cy="11" r="1.5" fill="#1a0a1f"/>
+  </g>
+  <!-- Sparkles -->
+  <path d="M128 58 L131 66 L139 69 L131 72 L128 80 L125 72 L117 69 L125 66 Z" fill="#e8d5f0"/>
+  <circle cx="56" cy="74" r="3" fill="#c084d8"/>
+  <circle cx="120" cy="112" r="2.5" fill="#d4a5e8"/>
+</svg>
